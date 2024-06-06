@@ -29,10 +29,10 @@ This project is for non-profit Foundations, to ease the sending of bulks emails 
 1. We need to start up the server. In a terminal, go to the `server` folder, and run the following command:
 
 ```
-./gradle bootRun
+./gradlew bootRun
 ```
 
-2. Once the server is up and running, we need to run the web application, in order to do this, we need to navigate to the `app` folder first in a terminal.
+2. Once the server is up and running, we need to run the web application. Open a new terminal window then we need to navigate to the `app` folder first in a terminal.
 
 3. We need to download the dependencies running the following command:
 
